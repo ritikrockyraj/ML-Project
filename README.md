@@ -1,2 +1,2 @@
 # ML-Project
-beginner project
+my first project
