@@ -1,4 +1,4 @@
-# ML-Project
+# FIRST ML MODEL
 # 🎯 Sonar Signal Classification
 
 Classify sonar signals as **rock** or **mine** using ML algorithms.
